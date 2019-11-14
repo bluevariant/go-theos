@@ -7,7 +7,7 @@
 1. `git clone https://github.com/nightbrain/go-src-golang-ios-jailbroken-tool.git`.
 1. `cd go-src-golang-ios-jailbroken-tool`.
 1. `bash ./build.sh`.
-- Your deb file in `./.theos_building/packages/`.
+Your deb file in `./.theos_building/packages/`.
 ## How It Works
 
 1. Cross build main.go on `GOOS=darwin GOARCH=arm GOARM=7` and `GOOS=darwin GOARCH=arm64` to get a static library on armv7 and arm64 respectively.
