@@ -4,8 +4,8 @@
 
 ### Building
 
-1. `git clone https://github.com/dccxx/-Users-dccxx-go-src-golang-ios-jailbroken-tool.git`
-1. `cd -Users-dccxx-go-src-golang-ios-jailbroken-tool`
+1. `git clone https://github.com/nightbrain/go-src-golang-ios-jailbroken-tool.git`
+1. `cd go-src-golang-ios-jailbroken-tool`
 1. `bash ./build.sh`
 1. `Your deb file in ./.theos_building/packages/`
 ## How It Works
